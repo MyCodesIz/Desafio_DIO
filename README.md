@@ -11,10 +11,10 @@ Este documento descreve os passos para configurar uma pesquisa utilizando o Azur
 ## Imagens
 
 ### ## Upload Documents to Azure Storage
-![## Upload Documents to Azure Storage](./images/storage-blob-1.png)
-![## Upload Documents to Azure Storage](./images/storage-blob-2.png)
-![## Upload Documents to Azure Storage](./images/6a-azure-container-upload-files-3.png)
-![## Upload Documents to Azure Storage](./images/azure-search-wizard-4.png)
+![## Upload Documents to Azure Storage](./Imagens/storage-blob-1.png)
+![## Upload Documents to Azure Storage](./Imagens/storage-blob-2.png)
+![## Upload Documents to Azure Storage](./Imagens/6a-azure-container-upload-files-3.png)
+![## Upload Documents to Azure Storage](./Imagens/azure-search-wizard-4.png)
 
 ## Passo a Passo para Configuração do Azure Cognitive Search
 
